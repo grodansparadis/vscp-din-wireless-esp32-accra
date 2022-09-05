@@ -9,6 +9,7 @@
     (date "2022-06-09")
     (rev "A")
     (company "Grodans Paradis AB")
+    (comment 1 "Counting channels")
   )
 
   (lib_symbols
