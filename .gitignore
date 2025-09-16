@@ -45,6 +45,9 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+
+
+kicad/esp32-c3/accra_A-backups/*
 .tmp_versions/
 modules.order
 Module.symvers
